@@ -8,3 +8,8 @@ www.youtube.com##ytd-guide-signin-promo-renderer.ytd-guide-renderer.style-scope
 www.youtube.com###dismissible > .ytd-statement-banner-renderer.style-scope
 www.youtube.com###primary > .ytd-two-column-browse-results-renderer.style-scope
 www.youtube.com###voice-search-button > .size-default.style-default.ytd-masthead.style-scope > .ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-default.ytd-button-renderer.style-scope
+www.youtube.com##.style-text.ytd-toggle-button-renderer.style-scope
+www.youtube.com##ytd-topbar-menu-button-renderer.style-default.ytd-masthead.style-scope:nth-of-type(1)
+www.youtube.com###voice-search-button
+www.youtube.com###dialog
+www.youtube.com##.opened
